@@ -1,0 +1,14 @@
+add
+City2
+15
+300
+99
+200
+456
+999
+98
+ANARCHY
+y
+Жигулин
+169
+execute_script script2.txt

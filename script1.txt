@@ -1,0 +1,16 @@
+add
+City1
+100
+200
+1000
+150
+500
+123
+999
+MERITOCRACY
+y
+Governor1
+180
+show
+execute_script script2.txt
+remove_by_id 1
